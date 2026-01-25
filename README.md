@@ -11,6 +11,12 @@
 3. Скопируйте и вставьте содержимое файла `Dark Text (Google Calendar).user.js`.
 4. Сохраните и обновите страницу Google Calendar.
 
+
+
+
+
+
+
 # Dark Text (Google Calendar)
 A Tampermonkey script that makes Google Calendar event text black for better readability.
 ## Description
