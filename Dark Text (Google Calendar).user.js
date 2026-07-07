@@ -7,7 +7,7 @@
 // @match        https://calendar.google.com/*
 // @grant        GM_addStyle
 // @run-at       document-end
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=calendar.google.com
+// @icon         https://raw.githubusercontent.com/RealLalka/Dark-Text-Google-Calendar/main/src/logo.png
 // ==/UserScript==
 
 (function () {
