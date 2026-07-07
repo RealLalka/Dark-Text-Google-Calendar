@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/card.png" alt="Showcase Card" width="600" />
+  <img src="src/card.png" alt="Showcase Card" width="800" />
 </p>
 
 <p align="center">
